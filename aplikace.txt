@@ -1,9 +1,7 @@
 fdhsoifdos
 bvkjdsv
 
-app#1 notification manager
-Function
-allows notification to be restricted for certain times and it manages messages based on people who send them.
 
-App#2 After you wake
-This app try to give you a nice start to the day without being distracted by the world around you and it allows you to keep achieving your dreams
+TASKS:
+
+1. What IDE are we using for programming
